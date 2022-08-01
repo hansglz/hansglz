@@ -5,6 +5,10 @@
 
 <div id="header" align="center"> Hi there, this is Gaolin (Hans) Zhang. Welcome to my channel! 
 
+<div id="header" align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Per_aspera_ad_astra%2C_1894.jpg/1920px-Per_aspera_ad_astra%2C_1894.jpg" width="500"/>
+</div>
+
 
   <div id="header" align="center">
 
@@ -20,10 +24,6 @@
 <!-- [:honey_pot:] I evaluate work-life balance and have always been obsessed with my hobbies. I enjoy various genres of books, movies, and musics; post reviews on [DouBan](https://www.douban.com/people/wenxinz0719/?_i=5755149buzZokh). I love taking pictures and documenting memorible life moments; upload some on [IG](https://www.instagram.com/wenxin.z0719/). I read financial news every morning and sometimes summarize what I have learned from these news for better understanding on [Snowball](https://xueqiu.com/u/8737818733). -->
 
 [:mailbox:] I believe there is always something we can learn from others, that's why I appreciate connection! You can connect with me on [Linkedin](https://www.linkedin.com/in/gaolinzhang26/) or feel free to throw me a letter via glzhang23@gmail.com.
-
-<div id="header" align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Per_aspera_ad_astra%2C_1894.jpg/1920px-Per_aspera_ad_astra%2C_1894.jpg" width="500"/>
-
 
 <!-- </div>
 
