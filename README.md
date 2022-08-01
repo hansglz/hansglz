@@ -21,10 +21,10 @@
 
 [:mailbox:] I believe there is always something we can learn from others, that's why I appreciate connection! You can connect with me on [Linkedin](https://www.linkedin.com/in/gaolinzhang26/) or feel free to throw me a letter via glzhang23@gmail.com.
 
-<!-- 
+--- 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/QKUTD5lAgpgrSHpbMB/giphy.gif" width="500"/> -->
+  <img src="https://en.wikipedia.org/wiki/Per_aspera_ad_astra#/media/File:Per_aspera_ad_astra,_1894.jpg" width="500"/>
 
 
 <!-- </div>
