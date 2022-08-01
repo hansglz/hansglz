@@ -4,7 +4,7 @@
 <!-- ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>  -->
 
 <div id="header" align="center"> Hi there, this is Gaolin (Hans) Zhang. Welcome to my channel! 
-
+<p></p>
 <div id="header" align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Per_aspera_ad_astra%2C_1894.jpg/1920px-Per_aspera_ad_astra%2C_1894.jpg" width="500"/>
 </div>
