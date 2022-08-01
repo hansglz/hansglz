@@ -41,7 +41,7 @@
   </a> -->
 
 
----
+<!-- ---
 
  ### :four_leaf_clover: Area of Strength:
 
@@ -51,9 +51,9 @@
 
 • Master knowledge in large-scale data management and parallel computing; using frameworks such as SQL, HDFS, and Spark
 
-• Program in Python; fluently using scientific computing tools including Scipy, Numpy, Pandas, and Ipython; visualization methods including Matplotlib, Tableau, and Seaborn; machine learning tools including Scikit-Learn, NLTK, Pytorch, Tensorflow, and Keras
+• Program in Python; fluently using scientific computing tools including Scipy, Numpy, Pandas, and Ipython; visualization methods including Matplotlib, Tableau, and Seaborn; machine learning tools including Scikit-Learn, NLTK, Pytorch, Tensorflow, and Keras -->
 
----
+<!-- ---
 
   ### :medal_military: Project & Work Experience:
 
@@ -71,7 +71,7 @@ Work Experience:
   - [Detected Dementia Using Patients' MRI](https://drive.google.com/file/d/12BjlyC14fZeHesTK5nCIVaQI6SsIv9qp/view)
   - [Build Recommender System using Million Song Dataset](https://drive.google.com/file/d/1inUFglNZnNFasir-VtfsHSvnITyiDnLh/view)
   - [Build Recommender System using Yelp Dataset](https://github.com/Yelp-Recommender-System/FancyYelpers)
-  - [Detect Fraud in Credit Transaction](https://www.kaggle.com/wenxin719)
+  - [Detect Fraud in Credit Transaction](https://www.kaggle.com/wenxin719) -->
 
 ---
 
