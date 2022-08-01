@@ -41,17 +41,17 @@
   </a> -->
 
 
-<!-- ---
+---
 
  ### :four_leaf_clover: Area of Strength:
 
-• Lay a solid foundation in mathematics including calculus, linear algebra, and probability and statistics; mastering skills such as regression, classification, clustering, dimension reduction, hypothesis testing, and A/B testing
+• Lay a solid foundation in computer science including cloud computing technology, operating systems, advanced algorithm, etc.
 
-• Have rich experience in applying machine learning algorithms to real-world problems, including interpreting consumer traffic of big malls, building recommender systems, detecting fraud in credit transactions, detecting illegal transaction networks on WeChat, and predicting Alzheimer’s disease
+• Have rich experience in full stack development, mastering skills like frontend & backend technologies and frameworks, relational & non-relational database management systems, version control and continuous integration.
 
-• Master knowledge in large-scale data management and parallel computing; using frameworks such as SQL, HDFS, and Spark
+• Proficient in knowledge of large-scale data management and parallel computing using frameworks such as Spark and Flink
 
-• Program in Python; fluently using scientific computing tools including Scipy, Numpy, Pandas, and Ipython; visualization methods including Matplotlib, Tableau, and Seaborn; machine learning tools including Scikit-Learn, NLTK, Pytorch, Tensorflow, and Keras -->
+• Program mainly in Java & JavaScript; fluently using web development tools including Postman, Rekit, and Pytest
 
 <!-- ---
 
