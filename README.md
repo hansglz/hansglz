@@ -47,7 +47,7 @@
 
 • Lay a solid foundation in computer science including cloud computing technology, operating systems, advanced algorithm, etc.
 
-• Have rich experience in full stack development, mastering skills like frontend & backend technologies and frameworks, relational & non-relational database management systems, version control and continuous integration.
+• Have rich experience in full stack development, mastering skills like frontend & backend technologies and frameworks, relational & non-relational database management systems, version control and continuous integration
 
 • Proficient in knowledge of large-scale data management and parallel computing using frameworks such as Spark and Flink
 
