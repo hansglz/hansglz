@@ -100,14 +100,16 @@ Work Experience:
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="html5" alt="r" width="60" height="60"/>&nbsp;
 <!--   # css -->
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="css" alt="r" width="60" height="60"/>&nbsp;
+</div>
+<div>
 <!--   # mysql -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="60" height="60"/>&nbsp;
 <!--   # redis -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" title="redis" alt="mysql" width="60" height="60"/>&nbsp;
 <!--   # sqlite -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite" alt="sqlite" width="60" height="60"/>&nbsp;
-<!--   # git  -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="git" width="60" height="60"/>&nbsp;
+</div>
+<div>
 <!--   # nginx  -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" title="nginx" alt="git" width="60" height="60"/>&nbsp;
 <!--   # kafka  -->
@@ -118,8 +120,6 @@ Work Experience:
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="aws" alt="aws" width="60" height="60"/>&nbsp;
 <!--   # docker -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="60" height="60"/>&nbsp;
-<!--   # latex -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="latex" alt="latex" width="60" height="60"/>&nbsp;  
 </div>
 
 
